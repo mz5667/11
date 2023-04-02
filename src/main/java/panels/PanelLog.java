@@ -45,6 +45,9 @@ public class PanelLog extends GridPanel {
 
     }
 
+    public static void info(String save) {
+    }
+
     /**
      * Обработчик событий
      *
